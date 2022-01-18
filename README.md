@@ -3,3 +3,4 @@
 Ez egy próbaverzió
 
 [A program a replit.com oldalon](replit.com/@bkata/SandybrownShorttermMass#main.py)
+![amoba_minta.png](amoba_minta.png)
